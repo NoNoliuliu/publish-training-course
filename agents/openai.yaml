@@ -1,0 +1,4 @@
+interface:
+  display_name: "发布自有培训课程"
+  short_description: "按原目录输出课程材料，视频默认不切割，按需代发布"
+  default_prompt: "Use $publish-training-course to prepare course materials beside the original files. Preserve the full original video by default, and upload or publish only if I explicitly request it."
